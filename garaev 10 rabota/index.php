@@ -9,7 +9,7 @@ use App\Student;
 use App\Group;
 
 $student1 = new Student("Айрат", "Гараев");
-$student2 = new Student("Дарьюша", Любимова");
+$student2 = new Student("Дарьюша", "Любимова");
 $student3 = new Student("Алексей", "Кирпичов");
 
 $student1->addGrade(85);
